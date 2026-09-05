@@ -1,0 +1,6 @@
+{
+  "name": "Social Vibe",
+  "description": "Clean, modern Social Vibe login screen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
